@@ -49,15 +49,3 @@ La aplicación organiza libros y autores en una base de datos local y también p
 3. Ejecuta la clase principal `DemoApplication.java`.
 4. Interactúa con la aplicación desde la consola:
    - Selecciona las opciones del menú para buscar, listar o guardar autores/libros.
-
-## Ejemplo de Uso
-
-1. **Buscar un libro por título**:
-   - Ingrese el título: `Don Quijote`
-   - La aplicación muestra los resultados obtenidos de la API y guarda el libro en la base de datos.
-
-2. **Listar autores vivos en un año**:
-   - Ingrese el año: `1605`
-   - Resultado: Lista de autores vivos en ese año.
-
----
